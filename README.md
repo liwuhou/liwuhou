@@ -16,4 +16,4 @@ Something I make...
 
 | Project                                             | Npm                                                                                           | Description                                            |
 | --------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| [`pm-keeper`](https://github.com/liwuhou/pm-keeper) | [![npm](https://img.shields.io/npm/v/pm-keeper.svg)](https://www.npmjs.com/package/pm-keeper) | A simple way to force package-manager in your project. |
+| [`pm-keeper`](https://github.com/liwuhou/pm-keeper) | [![npm](https://img.shields.io/npm/v/pm-keeper.svg)](https://www.npmjs.com/package/pm-keeper) | 📦 A simple way to force package-manager in your project. |
