@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm the guy. The self-taught coder🧑🏻‍💻 , frontend devloper, from China🇨🇳. 
+I'm the guy. The self-taught coder🧑🏻‍💻 , a frontend devloper, from China🇨🇳. 
 
 Nice to meet you!
 
