@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-I'm a frontend devloper🧑🏻‍💻 and self-taught coder from China🇨🇳. 
+I'm the guy. The self-taught coder🧑🏻‍💻 , frontend devloper, from China🇨🇳. 
 
 [![GitHub followers](https://img.shields.io/github/followers/liwuhou?label=Follow%20me%EF%BC%81&style=social)](https://github.com/liwuhou/)
 
