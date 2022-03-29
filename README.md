@@ -21,4 +21,5 @@ So, I'm a newbie in the open-source world. You can [![GitHub followers](https://
 📫 Contact me
 
 - Wechat: liwuhou
+- Juejin: [阿五](https://juejin.cn/user/1838039172120701/posts)
 - Email: hugewilliam@foxmail.com
