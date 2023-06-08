@@ -1,8 +1,11 @@
-### Hi there 👋
+<h2 align="center">
+  Welcome 👋
+</h2>
 
-I'm the guy. The self-taught coder🧑🏻‍💻 , a frontend devloper, from China🇨🇳. 
-
-💖 Nice to meet you!
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira&color=FF822D&center=true&vCenter=true&lines=Hi+there!+;I+am+the+guy.;The+self-taught+coder.;A+frontend+developer.;From+China.;Nice+to+meet+you~"></a>
+</p>
 
 So, I'm a newbie in the open-source world. You can [![GitHub followers](https://img.shields.io/github/followers/liwuhou?label=Follow%20me%EF%BC%81&style=social)](https://github.com/liwuhou/) and have some fun with me. Maybe we can change the world😏.
 
