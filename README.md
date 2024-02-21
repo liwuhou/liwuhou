@@ -21,6 +21,7 @@ So, I'm a newbie in the open-source world. You can [![GitHub followers](https://
 | --------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
 | [`pm-keeper`](https://github.com/liwuhou/pm-keeper) | [![npm](https://img.shields.io/npm/v/pm-keeper.svg)](https://www.npmjs.com/package/pm-keeper) | 📦 A simple way to force package-manager in your project. |
 | [`rnrm`](https://github.com/liwuhou/rnrm) | ![GitHub tag (with filter)](https://img.shields.io/github/v/tag/liwuhou/rnrm?label=rnrm) | 🛠️ A tool for manage npm registries powered by Rust. |
+| [`life-progress-cli`](https://github.com/liwuhou/life-progress-cli) | ![GitHub tag (with filter)](https://img.shields.io/github/v/tag/liwuhou/rnrm?label=life-progress-cli) | 🪴 A tiny cli show your life progress by Rust. |
 
 📫 Contact me
 
